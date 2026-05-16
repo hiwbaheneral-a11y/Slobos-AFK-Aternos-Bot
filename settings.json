@@ -9,7 +9,7 @@
     "ip": "pvpserver-Ev83.aternos.me:33569",
     "port": 33569,
     "version": "1.21.1"
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
