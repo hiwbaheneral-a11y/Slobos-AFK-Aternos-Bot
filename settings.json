@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pvpserver-Ev83.aternos.me:33569",
+    "ip": "pvpserver-Ev83.aternos.me",
     "port": 33569,
-    "version": "1.21.1"
+    "version": "1.21.1",
     "try-creative": true
   },
   "position": {
