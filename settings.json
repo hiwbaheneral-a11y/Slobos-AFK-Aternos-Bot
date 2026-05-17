@@ -8,7 +8,7 @@
   "server": {
     "ip": "pvpserver-Ev83.aternos.me",
     "port": 33569,
-    "version": "26.1.1",
+    "version": "26.1.2",
     "try-creative": true
   },
   "position": {
